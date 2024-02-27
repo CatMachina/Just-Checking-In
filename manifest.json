@@ -8,7 +8,8 @@
     "default_icon": "simple_cat.jpg"
   },
   "permissions": [
-    "sidePanel"
+    "sidePanel",
+    "storage"
   ],
   "sidePanel": {
     "default_path": "sidepanel.html"
